@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rushan
+### Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="drawing" height="50"/> I'm Rushan
 
 
 ### Check out my portfolio website here :point_right: [Click Here](https://portfolio-2-0-saiyedrushan.vercel.app/)
