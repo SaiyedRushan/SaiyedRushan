@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Rushan
+
+
+### Check out my portfolio website here :point_right: [Click Here](https://portfolio-2-0-saiyedrushan.vercel.app/)
 
 <!--
 **SaiyedRushan/SaiyedRushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
