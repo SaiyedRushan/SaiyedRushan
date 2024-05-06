@@ -1,9 +1,6 @@
 ### Hi there <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" alt="drawing" height="50"/> I'm Rushan
 
-
 ### Check out my portfolio website here :point_right: [Click Here](https://portfolio-2-0-saiyedrushan.vercel.app/)
-
-<img src="https://github.com/SaiyedRushan/SaiyedRushan/blob/main/Banner.png" alt="banner" height=400/>
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left"> 
