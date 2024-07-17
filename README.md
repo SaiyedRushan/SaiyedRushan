@@ -5,6 +5,12 @@ I'm a passionate full-stack developer with a keen interest in building innovativ
 ## Check out my deployments
 
 <!-- REPOS-START -->
+- [14502d5a](https://api.github.com/repos/SaiyedRushan/14502d5a) - [Deployment](https://phone-call.vercel.app)
+- [NoteManagement-Backend](https://api.github.com/repos/SaiyedRushan/NoteManagement-Backend) - [Deployment](https://notemanagement-backend.onrender.com/api-docs/)
+- [henon-dashboard](https://api.github.com/repos/SaiyedRushan/henon-dashboard) - [Deployment](https://henon-dashboard.vercel.app)
+- [ReportizeAI-Frontend](https://api.github.com/repos/SaiyedRushan/ReportizeAI-Frontend) - [Deployment](https://reportizeai-frontend.vercel.app)
+- [Portfolio_2.0](https://api.github.com/repos/SaiyedRushan/Portfolio_2.0) - [Deployment](https://saiyedrushan.vercel.app/)
+- [PortfolioWebsite](https://api.github.com/repos/SaiyedRushan/PortfolioWebsite) - [Deployment](https://saiyedrushan.github.io/PortfolioWebsite/)
 <!-- REPOS-END -->
 
 ## 💻 Tech Stack
