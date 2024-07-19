@@ -37,8 +37,6 @@ Here are some of the technologies I work with:
 <br/>
 
 ## 👯 I'm looking to collaborate on
-
-- Open source projects related to [specific area of interest]
 - Innovative web applications that solve real-world problems
 
 ## 📫 How to reach me
