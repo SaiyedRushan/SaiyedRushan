@@ -52,6 +52,14 @@ Here are some of the technologies I work with:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaiyedRushan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🐍 Watch My Contributions Get Eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiyedRushan/SaiyedRushan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiyedRushan/SaiyedRushan/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SaiyedRushan/SaiyedRushan/output/github-snake.svg" />
+</picture>
+
 ---
 
 ⭐️ From [SaiyedRushan](https://github.com/SaiyedRushan)
